@@ -1,4 +1,11 @@
-### Hi there 👋
+ ### 👋 Hi, I'm Walt Bowers
+ 
+I’m a proven problem solver and technology evangelist. I am the conduit between business decision makers and engineers. Not only can I engineer solutions to complex problems, I communicate and present the issues and solutions equally well to all stakeholders including C-level management, customers, and geeks. I possess the ability to quickly understand emerging technologies and how to apply the appropriate technology to a given solution.
+
+- 🔭 I’m currently working on Internet of Things
+- 🌱 I’m currently learning ML, NLP, and PyTorch.
+
+#### [LinkedIn](https://www.linkedin.com/in/waltbowers/) 
 
 <!--
 **wbowers/wbowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
